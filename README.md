@@ -5,4 +5,4 @@ Orchestration to be done via EC2 SSM.
 
 ## Technologies:
 
-### Need to make add new Regions and AMI-IDs
+### Need to add new Regions to the list of AMI-IDs
